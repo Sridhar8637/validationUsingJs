@@ -1,0 +1,47 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+a{
+	text-decoration:none;
+	font-size:17px;
+	margin-left:35%;
+	
+}
+
+.container{
+	border: 1px solid blue;
+	width:35%;
+	heigth:40%;
+	margin:auto;
+	padding:1%;
+}
+
+#formdiv{
+	display:flex;
+	flex-direction: column;
+	align-items:center;
+}
+
+
+
+.forminput{
+	width:100%;
+	padding:1%;
+    font-size:14px;
+	border-radius:18px;
+	margin-bottom:2%;
+	margin-top:2%
+}
+
+#submit{
+	padding:1%;
+	font-size:16px;
+	background-color:green;
+	margin-top:5%;
+    width: 100%;
+	border-radius:8px;
+}
+
+
